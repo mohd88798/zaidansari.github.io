@@ -12,9 +12,9 @@ const PROFILE = {
   summary: "Software engineer with experience in Java and Spring Boot–based backend development, enterprise application integration in SAP ecosystems, a growing focus on cloud concepts, DevOps fundamentals, and emerging experience in Generative AI and Agentic AI through project-based learning.",
   email: "mohdzaid88798@email.com",
   linkedin: "https://www.linkedin.com/in/mohammad-zaid-ansari-0919aa16b/",
-  resumeUrl: "public/resume/CV.pdf",
+  resumeUrl: "/resume/CV.pdf",
   // Add your profile photo to /public/profile.jpg (or .png)
-  profileImage: "/public/profile.png",
+  profileImage: "/profile.png",
   about: `I am a software engineer with experience in building backend applications using Java and Spring Boot. My work includes API design, data integration, and application development within enterprise environments, including SAP ecosystems. I have a solid conceptual understanding of cloud computing and DevOps practices and am actively strengthening my practical skills through structured learning and projects. I am also exploring Generative AI and agentic AI through hands-on projects, focusing on intelligent agents for workflow automation and data-driven decision support.`,
 };
 
